@@ -1,3 +1,13 @@
+A simple Login Form created using React.js
+
+### Used technologies
+
+* React.js
+* Next.js
+* Typescript
+
+<img src="https://github.com/Dener3D/Login-Form/blob/main/Images/LoginForm.PNG" />
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
